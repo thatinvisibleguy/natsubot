@@ -8,15 +8,13 @@ Início: Aqui você encontra tudo sobre o NatsuBot.
 
 Ele foi inspirado no anime Fairy Tail, cujo o personagem do bot é o Natsu. Vi alguns desenvolvedores utilizando imagens de animes para fazer seu bot, desde então, decidi criar meu primeiro bot público.
 
-
- CASO VOCÊ FAÇA FLOOD DOS COMANDOS, É POSSÍVEL QUE VOCÊ NÃO POSSA MAIS UTILIZAR OS COMANDOS DO NATSU.
-
+CASO VOCÊ FAÇA FLOOD DOS COMANDOS, É POSSÍVEL QUE VOCÊ NÃO POSSA MAIS UTILIZAR OS COMANDOS DO NATSU.
 
 Alguns comandos no Natsu:
 
-
 COMANDOS QUE SÃO EXIBIDOS NO N!AJUDA
-```
+
+```text
 Diversão
 n!mcskin | Mostra a skin do nick que você digitou
 n!ascii | Escrita em Ascii com o limite de 15 letras
@@ -39,6 +37,4 @@ n!amigos | Meus amigos e melhores amigos!
 n!traduzir | Traduz uma frase/palavra que você não sabe em outras línguas
 n!servidores | Mostra a lista de servidores que eu estou, muito obrigado!
 ```
-
-
 

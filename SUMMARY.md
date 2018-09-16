@@ -1,6 +1,7 @@
-# Categorias do Site no GitHub
+# Table of contents
 
 * [Página Inicial](README.md)
+* [GitHub](https://github.com/thatinvisibleguy/natsubot)
 
 ## Atualizações
 
