@@ -1,5 +1,5 @@
 ---
-Descrição do Bot: Aqui você encontra tudo sobre o NatsuBot.
+Início: Aqui você encontra tudo sobre o NatsuBot.
 ---
 
 # Página Inicial
