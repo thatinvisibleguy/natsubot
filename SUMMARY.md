@@ -1,4 +1,4 @@
-# Table of contents
+# Categorias do Site no GitHub
 
 * [Página Inicial](README.md)
 
